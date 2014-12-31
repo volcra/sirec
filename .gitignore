@@ -1,0 +1,15 @@
+# Idea
+.idea/
+
+# Windows
+Thumbs.db
+*.zip
+*.ini
+
+# Sublime
+*sublime*
+
+# Node
+node_modules/
+dist/
+.tmp/
