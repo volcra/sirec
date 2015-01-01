@@ -155,7 +155,7 @@ gulp.task('pagespeed:mobile', pagespeed.bind(null, {
   // free (no API key) tier. You can use a Google
   // Developer API key if you have one. See
   // http://goo.gl/RkN0vE for info key: 'YOUR_API_KEY'
-  url: 'http://volcra.github.io/ahremodel/',
+  url: 'http://volcra.github.io/sirec/',
   strategy: 'mobile'
 }));
 gulp.task('pagespeed:desktop', pagespeed.bind(null, {
@@ -163,7 +163,7 @@ gulp.task('pagespeed:desktop', pagespeed.bind(null, {
   // free (no API key) tier. You can use a Google
   // Developer API key if you have one. See
   // http://goo.gl/RkN0vE for info key: 'YOUR_API_KEY'
-  url: 'http://volcra.github.io/ahremodel/',
+  url: 'http://volcra.github.io/sirec/',
   strategy: 'desktop'
 }));
 
